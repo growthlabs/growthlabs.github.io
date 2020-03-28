@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[11],{7437:function(n,o,p){"use strict";p.r(o);var t,u,e={name:"ProductView",props:{productId:String}},r=e,c=p("2877"),l=Object(c["a"])(r,t,u,!1,null,null,null);o["default"]=l.exports}}]);
